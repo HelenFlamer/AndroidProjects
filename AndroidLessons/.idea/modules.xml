@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/011_1_resvalues/011_1_resvalues.iml" filepath="$PROJECT_DIR$/011_1_resvalues/011_1_resvalues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidLessons.iml" filepath="$PROJECT_DIR$/AndroidLessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p011_1resvalues/p011_1resvalues.iml" filepath="$PROJECT_DIR$/p011_1resvalues/p011_1resvalues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p012_1logandmess/p012_1logandmess.iml" filepath="$PROJECT_DIR$/p012_1logandmess/p012_1logandmess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p013_1_menu/p013_1_menu.iml" filepath="$PROJECT_DIR$/p013_1_menu/p013_1_menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p014_1menuadv/p014_1menuadv.iml" filepath="$PROJECT_DIR$/p014_1menuadv/p014_1menuadv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p015_1contextmenu/p015_1contextmenu.iml" filepath="$PROJECT_DIR$/p015_1contextmenu/p015_1contextmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p016_1_dynamiclayout/p016_1_dynamiclayout.iml" filepath="$PROJECT_DIR$/p016_1_dynamiclayout/p016_1_dynamiclayout.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/011_1_resvalues" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/example" />
+            <option value="$PROJECT_DIR$/p011_1resvalues" />
+            <option value="$PROJECT_DIR$/p012_1logandmess" />
+            <option value="$PROJECT_DIR$/p013_1_menu" />
+            <option value="$PROJECT_DIR$/p014_1menuadv" />
+            <option value="$PROJECT_DIR$/p015_1contextmenu" />
+            <option value="$PROJECT_DIR$/p016_1_dynamiclayout" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/011_1_resvalues" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/example" />
+            <option value="$PROJECT_DIR$/p011_1resvalues" />
+            <option value="$PROJECT_DIR$/p012_1logandmess" />
+            <option value="$PROJECT_DIR$/p013_1_menu" />
+            <option value="$PROJECT_DIR$/p014_1menuadv" />
+            <option value="$PROJECT_DIR$/p015_1contextmenu" />
+            <option value="$PROJECT_DIR$/p016_1_dynamiclayout" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
